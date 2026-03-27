@@ -1,0 +1,17 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
